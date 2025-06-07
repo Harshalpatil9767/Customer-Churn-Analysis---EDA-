@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis---EDA-
+# Customer-Churn-Analysis
 🔍 Objective
 
 • This project performs an Exploratory Data Analysis (EDA) on customer churn data from a telecommunications company, Teco. The goal is to understand which factors most influence customer churn, such as contract types, payment methods, internet service type, and customer tenure. These insights help recommend actions to improve customer retention.
